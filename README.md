@@ -1,3 +1,5 @@
+![](./boids.gif)
+
 # go_boids
 Golang implementation of BOIDS (Bird Droids) imitating flocking behaviour of real birds. Each boid is a separate go routine communicating with others using shared memory space protected by mutex locks
 
